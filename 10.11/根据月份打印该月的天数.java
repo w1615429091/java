@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class 根据月份打印该月的天数 {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入月份：");
         int month = scanner.nextInt();

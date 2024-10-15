@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class switchcase {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入您的金额：");
         int money = scanner.nextInt();
