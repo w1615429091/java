@@ -1,4 +1,5 @@
 import java.util.Scanner;
+@SuppressWarnings("resource")
 
 public class dowhile优化 {
     public static void main(String[] args) {

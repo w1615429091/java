@@ -1,4 +1,5 @@
 import java.util.Scanner;
+@SuppressWarnings("resource")
 
 public class dowhile {
     public static void main(String[] args) {

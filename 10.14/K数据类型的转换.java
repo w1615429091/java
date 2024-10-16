@@ -17,6 +17,5 @@ public class K数据类型的转换 {
         // int转字符串
         String f = String.valueOf(5);
         System.out.println(f);
-        
     }
 }
