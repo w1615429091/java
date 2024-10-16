@@ -4,7 +4,7 @@ public class CC_Cat {
         System.out.println("白猫跳水！");
     }
     public void climb() {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'climb'");
     }
 }

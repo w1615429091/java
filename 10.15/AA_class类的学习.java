@@ -4,10 +4,8 @@ public class AA_class类的学习 {
         AB_DaHuoJi dhj = new AB_DaHuoJi();
         System.out.println(dhj.color);
         System.out.println(dhj.shape);
-        System.out.println(dhj.size);        
-        System.out.println(dhj.m);        
+        System.out.println(dhj.size);
+        System.out.println(dhj.m);
         dhj.fire(); // 调用新的方法以显示更多信息
-
     }
 }
-
