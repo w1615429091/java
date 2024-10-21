@@ -1,4 +1,4 @@
-package a;
+package a.b;
 
 public class Cat {
     public void speak() {
